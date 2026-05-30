@@ -10,6 +10,22 @@ A Software Developer and Network Security Engineer focused on full-stack applica
 * 🤝 **Academic & Leadership** | Experienced Peer Tutor with over 100 hours logged and former Esports Team Captain.
 
 ---
+### 🛠️ Core Technologies & Frameworks
+
+⚡ **Backend & Scripting:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+💻 **Frontend & Desktop:** 
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+
+🔧 **Systems & Languages:** 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### 🧰 Technical Skillset
 
@@ -43,13 +59,6 @@ A Software Developer and Network Security Engineer focused on full-stack applica
 
 ---
 
-### 📊 GitHub Metrics
-
-![Luz's GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=LuzCabreraRios&show_icons=true&theme=theme_here)
-
-![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=LuzCabreraRios&layout=compact&hide=html,css)
-
----
 
 ### 📬 Contact & Networks
 * 💼 **LinkedIn:** [linkedin.com/in/luz-cabrera-rios](https://linkedin.com/in/luz-cabrera-rios)

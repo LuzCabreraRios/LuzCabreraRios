@@ -43,11 +43,12 @@ A Software Developer and Network Security Engineer focused on full-stack applica
 
 ---
 
+
 ### 📊 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuzCabreraRios&show_icons=true&theme=radical" alt="Luz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuzCabreraRios&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuzCabreraRios&show_icons=true&theme=radial" alt="Luz's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuzCabreraRios&layout=compact&theme=radial" alt="Top Languages" height="195" />
 </p>
 
 ---
